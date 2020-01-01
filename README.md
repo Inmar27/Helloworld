@@ -1,3 +1,3 @@
 # Helloworld
 
-Hi names Inmar, just trying to learn code and and experiment with python.
+Hi names Inmar, just trying to learn code and experiment with python.
